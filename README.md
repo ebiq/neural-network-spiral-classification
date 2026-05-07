@@ -191,9 +191,7 @@ to verify:
 
 The second experiment uses the Spiral dataset:
 
-```text
-🌀🌀🌀
-```
+
 
 which contains highly nonlinear decision boundaries.
 
